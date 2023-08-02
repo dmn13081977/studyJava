@@ -10,8 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da91afb5-1d94-420a-bce7-ad4c9c30232f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/division by 0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/wrong action.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/my/controllers/Controller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my/controllers/Controller1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/my/controllers/Controller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my/controllers/Controller2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/bye.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/bye.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +67,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
     "spring.configuration.checksum": "eaf9d1d2bf5c8df466b3376235db919a",
     "vue.rearranger.settings.migration": "true"
   }
@@ -171,6 +179,7 @@
       <workItem from="1690967014154" duration="2942000" />
       <workItem from="1690972781508" duration="356000" />
       <workItem from="1690973499859" duration="277000" />
+      <workItem from="1690976377119" duration="9439000" />
     </task>
     <servers />
   </component>
