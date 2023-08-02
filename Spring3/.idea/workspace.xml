@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48caf158-0b81-4f9d-a33d-45a91402b013" name="Changes" comment="1" />
+    <list default="true" id="40d90682-cc80-4a4a-88cb-efa16a70dd82" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/../Spring1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/projects/ClassicalMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/projects/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/projects/MusicPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/projects/PopMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/projects/RockMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/projects/TestSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +33,30 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="ProjectId" id="2TFOEjh8hlhvvuHDmD5WnPCgHAd" />
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dmn13081977&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bffb96d1-1537-4500-a752-47dcb79d7437" />
+        <option name="url" value="git@github.com:dmn13081977/studyJava.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="2THUx5VFTZIUY7p19G6CtkztFKW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -34,20 +70,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/IDEA/Projects/Spring1",
+    "last_opened_file_path": "C:/IDEA/Projects/Spring3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "4de3ec37b6b9825320e2488df3a7114b",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Администратор\IdeaProjects" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.projects.TestSpring" />
@@ -62,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Spring1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Spring1" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestSpring" />
@@ -82,44 +107,68 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="48caf158-0b81-4f9d-a33d-45a91402b013" name="Changes" comment="" />
-      <created>1690635255079</created>
+      <changelist id="40d90682-cc80-4a4a-88cb-efa16a70dd82" name="Changes" comment="" />
+      <created>1690699745268</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1690635255079</updated>
-      <workItem from="1690635255963" duration="6335000" />
-      <workItem from="1690648789241" duration="1198000" />
-      <workItem from="1690650012349" duration="1092000" />
-      <workItem from="1690654498761" duration="1159000" />
-      <workItem from="1690972448829" duration="124000" />
+      <updated>1690699745268</updated>
+      <workItem from="1690699745673" duration="257000" />
+      <workItem from="1690700138926" duration="84000" />
+      <workItem from="1690700269256" duration="61000" />
+      <workItem from="1690700382738" duration="1540000" />
+      <workItem from="1690702042077" duration="101000" />
+      <workItem from="1690702316992" duration="23056000" />
+      <workItem from="1690741352924" duration="120000" />
+      <workItem from="1690789843091" duration="4264000" />
+      <workItem from="1690799699793" duration="424000" />
+      <workItem from="1690800323582" duration="204000" />
+      <workItem from="1690802840097" duration="436000" />
+      <workItem from="1690804257763" duration="725000" />
+      <workItem from="1690820306679" duration="732000" />
+      <workItem from="1690822736411" duration="731000" />
+      <workItem from="1690823489110" duration="87000" />
+      <workItem from="1690973807637" duration="2000" />
+      <workItem from="1690975362598" duration="134000" />
+      <workItem from="1690975572446" duration="124000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
-      <created>1690646900087</created>
+      <created>1690740552176</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1690646900087</updated>
+      <updated>1690740552176</updated>
     </task>
     <task id="LOCAL-00002" summary="1">
       <option name="closed" value="true" />
-      <created>1690646929286</created>
+      <created>1690740558638</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1690646929286</updated>
+      <updated>1690740558638</updated>
     </task>
     <task id="LOCAL-00003" summary="1">
       <option name="closed" value="true" />
-      <created>1690647765304</created>
+      <created>1690820655076</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1690647765304</updated>
+      <updated>1690820655076</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <option name="closed" value="true" />
+      <created>1690820679253</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690820679253</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +186,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../Progect2String" />
+      <path value="$PROJECT_DIR$/Project1 Spring" />
+    </ignored-roots>
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
