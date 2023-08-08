@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40d90682-cc80-4a4a-88cb-efa16a70dd82" name="Changes" comment="1" />
+    <list default="true" id="40d90682-cc80-4a4a-88cb-efa16a70dd82" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/../Spring1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Priject1Spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IOCxml.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1 Spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project1 Spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCRUD/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCRUD/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +80,7 @@
   <component name="RunManager">
     <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.projects.TestSpring" />
-      <module name="App1Spring" />
+      <module name="IOCxml" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.projects.*" />
@@ -116,6 +127,9 @@
       <workItem from="1690975362598" duration="134000" />
       <workItem from="1690975572446" duration="124000" />
       <workItem from="1690975890697" duration="43000" />
+      <workItem from="1691256503731" duration="542000" />
+      <workItem from="1691259833657" duration="31000" />
+      <workItem from="1691339919522" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
