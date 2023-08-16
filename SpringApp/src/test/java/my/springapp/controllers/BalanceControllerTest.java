@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 @SpringBootTest
 @AutoConfigureMockMvc
 class BalanceControllerTest {
-    
+
     @Autowired
     private MockMvc mockMvc;
 
