@@ -9,7 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da91afb5-1d94-420a-bce7-ad4c9c30232f" name="Changes" comment="" />
+    <list default="true" id="da91afb5-1d94-420a-bce7-ad4c9c30232f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/entity/ERole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/entity/ERole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/entity/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/entity/UserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/repo/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/repo/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/security/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/security/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringSecurity/src/main/java/my/springsecurity/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringSecurity/src/main/resources/templates/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,6 +195,9 @@
       <workItem from="1691340081038" duration="229000" />
       <workItem from="1691568935404" duration="1161000" />
       <workItem from="1692176407703" duration="42000" />
+      <workItem from="1692380091425" duration="40000" />
+      <workItem from="1692460369606" duration="122000" />
+      <workItem from="1692462589659" duration="390000" />
     </task>
     <servers />
   </component>

@@ -5,10 +5,7 @@ import lombok.*;
 import org.apache.catalina.User;
 
 @Entity
-@Getter
-@Setter
-@AllArgsConstructor
-@NoArgsConstructor
+@Data
 @ToString
 @Table(name = "userEntity")
 public class UserEntity {
