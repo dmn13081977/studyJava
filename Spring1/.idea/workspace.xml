@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da91afb5-1d94-420a-bce7-ad4c9c30232f" name="Changes" comment="" />
+    <list default="true" id="da91afb5-1d94-420a-bce7-ad4c9c30232f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaEETest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEETest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +36,10 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2TN7xZ6mnls6BgwOfUaA3XwIv2H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -193,6 +196,7 @@
       <workItem from="1692460369606" duration="122000" />
       <workItem from="1692462589659" duration="390000" />
       <workItem from="1695041958780" duration="28000" />
+      <workItem from="1695206221721" duration="275000" />
     </task>
     <servers />
   </component>

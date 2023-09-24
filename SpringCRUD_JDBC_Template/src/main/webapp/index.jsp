@@ -1,9 +1,5 @@
 <html>
 <body>
 <h2>/people</h2>
-<br/>
-<h2>/batch</h2>
-<br/>
-<h2>/admin</h2>
 </body>
 </html>
