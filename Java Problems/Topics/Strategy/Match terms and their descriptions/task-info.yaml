@@ -1,0 +1,37 @@
+type: matching
+captions:
+  - Context
+  - Strategy
+  - Concrete strategy
+  - Client
+  - Manager
+options:
+  - a code that selects an algorithm and starts the execution
+  - contains behaviour of an algorithm
+  - provides the common interface to a family of strategies
+  - there is no such term
+  - holds a reference to the strategy
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3320#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 30 Sep 2023 12:01:44 UTC"
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4

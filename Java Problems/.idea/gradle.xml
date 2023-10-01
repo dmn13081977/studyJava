@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Command/Forex Broker" />
+            <option value="$PROJECT_DIR$/Topics/Command/Participants" />
+            <option value="$PROJECT_DIR$/Topics/Command/Real-world examples" />
+            <option value="$PROJECT_DIR$/Topics/Command/Remote control" />
+            <option value="$PROJECT_DIR$/Topics/Command/Stock broker" />
+            <option value="$PROJECT_DIR$/Topics/Command/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command/Type of design pattern" />
+            <option value="$PROJECT_DIR$/Topics/Command/Undo command" />
+            <option value="$PROJECT_DIR$/Topics/Command/Use cases" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/About the pattern" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Benefits" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Concrete strategies" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Context in strategy pattern" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Match terms and their descriptions" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Max and Min" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Pick your team" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Select one statement" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Strategy pattern" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/How to throw an exception" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Possible declaration" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/The most general statement" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/The root of a number" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw a checked exception" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an IOException" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an unchecked exception" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throwing an exception" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

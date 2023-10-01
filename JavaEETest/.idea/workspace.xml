@@ -10,7 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a546129-78d0-466f-a89d-a43bc7b7a82b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/src/main/java/my/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/src/main/java/my/entities/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/src/main/resources/hibernate.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HybernateApp/src/test/java/my/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +181,7 @@
       <workItem from="1694940939187" duration="15390000" />
       <workItem from="1695030121277" duration="12447000" />
       <workItem from="1695114803412" duration="6103000" />
+      <workItem from="1695990256698" duration="53000" />
     </task>
     <servers />
   </component>
