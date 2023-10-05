@@ -7,10 +7,19 @@
         <option name="delegatedBuild" value="false" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="jbr-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Array/Creating arrays" />
+            <option value="$PROJECT_DIR$/Topics/Array/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializations" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Topics/Array/The last element of an array" />
+            <option value="$PROJECT_DIR$/Topics/Array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Array/Ways to create an array of ints" />
             <option value="$PROJECT_DIR$/Topics/Command/Forex Broker" />
             <option value="$PROJECT_DIR$/Topics/Command/Participants" />
             <option value="$PROJECT_DIR$/Topics/Command/Real-world examples" />
@@ -20,6 +29,31 @@
             <option value="$PROJECT_DIR$/Topics/Command/Type of design pattern" />
             <option value="$PROJECT_DIR$/Topics/Command/Undo command" />
             <option value="$PROJECT_DIR$/Topics/Command/Use cases" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Multidimensional array features" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Reverse elements" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Symmetric matrix" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/A singleton has" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Application controller" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Bad singleton" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Complete a class" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Complete the eager singleton" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Criticism" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Given a class named A" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Printing data of a singleton" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Select statements" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Theory" />
             <option value="$PROJECT_DIR$/Topics/Strategy/About the pattern" />
             <option value="$PROJECT_DIR$/Topics/Strategy/Benefits" />
             <option value="$PROJECT_DIR$/Topics/Strategy/Concrete strategies" />
@@ -31,6 +65,21 @@
             <option value="$PROJECT_DIR$/Topics/Strategy/Statements" />
             <option value="$PROJECT_DIR$/Topics/Strategy/Strategy pattern" />
             <option value="$PROJECT_DIR$/Topics/Strategy/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Template method/A disadvantage" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Build a house" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Career" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Template method/New customer" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Social networks" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Template Method" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Template Method (1)" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Template method/What does it do" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Greek letters" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Mutable lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/How to throw an exception" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Possible declaration" />

@@ -1,6 +1,7 @@
 package my.entities;
 
 import jakarta.persistence.*;
+import org.hibernate.annotations.Cascade;
 
 @Entity
 @Table(name = "person")
@@ -14,6 +15,12 @@ public class Person {
     private String name;
     @Column(name = "age")
     private int age;
+    @OneToOne(mappedBy = "person")//ссылаемся на поле "private Person person" в классе Passport
+    @Cascade(org.hibernate.annotations.CascadeType.PERSIST)
+    private Passport passport;
+    @OneToOne(mappedBy = "person")//ссылаемся на поле "private Person person" в классе ForeignPassport
+    @Cascade(org.hibernate.annotations.CascadeType.PERSIST)
+    private ForeignPassport foreignPassport;
 
     public Person() {}
 
@@ -44,6 +51,20 @@ public class Person {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    public Passport getPassport() {
+        return passport;
+    }
+
+    public void setPassport(Passport passport) {
+        this.passport = passport;
+        passport.setPerson(this);
+    }
+
+    public void setForeignPassport(ForeignPassport foreignPassport) {
+        this.foreignPassport = foreignPassport;
+        foreignPassport.setPerson(this);
     }
 
     @Override
