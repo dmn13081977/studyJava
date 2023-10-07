@@ -8,3 +8,6 @@ content:
   - Array
   - Processing strings
   - The List interface
+  - Standard functional interfaces
+  - Floating-point types
+  - Optional

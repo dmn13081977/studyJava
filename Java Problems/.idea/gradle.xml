@@ -7,7 +7,7 @@
         <option name="delegatedBuild" value="false" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="jbr-17" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -29,6 +29,12 @@
             <option value="$PROJECT_DIR$/Topics/Command/Type of design pattern" />
             <option value="$PROJECT_DIR$/Topics/Command/Undo command" />
             <option value="$PROJECT_DIR$/Topics/Command/Use cases" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Find X" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/What is the value" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
@@ -37,6 +43,13 @@
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Reverse elements" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Symmetric matrix" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Optional/A suitable method" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Avoiding exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Check an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Sum up optional values" />
+            <option value="$PROJECT_DIR$/Topics/Optional/The address book" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Optional/What is Optional" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Cutting out the middle of a string" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
@@ -54,6 +67,17 @@
             <option value="$PROJECT_DIR$/Topics/Singleton/Printing data of a singleton" />
             <option value="$PROJECT_DIR$/Topics/Singleton/Select statements" />
             <option value="$PROJECT_DIR$/Topics/Singleton/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/An infinite numbers supplier" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Describe the function" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Functional interfaces utilization" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Interface matching" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Matching lambda expressions" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Package java.util.function" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Proper interfaces" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Select suitable interfaces" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Theory" />
             <option value="$PROJECT_DIR$/Topics/Strategy/About the pattern" />
             <option value="$PROJECT_DIR$/Topics/Strategy/Benefits" />
             <option value="$PROJECT_DIR$/Topics/Strategy/Concrete strategies" />
@@ -77,7 +101,10 @@
             <option value="$PROJECT_DIR$/Topics/Template method/What does it do" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Greek letters" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Implementations" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Mutable lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Replacing ArrayList with LinkedList" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Results of operations" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />

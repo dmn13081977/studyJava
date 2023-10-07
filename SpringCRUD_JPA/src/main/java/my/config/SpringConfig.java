@@ -33,7 +33,7 @@ import javax.sql.DataSource;
 @EnableTransactionManagement
 @EnableWebMvc
 @EnableJpaRepositories("my.repo")
-public class SpringConfig implements WebMvcConfigurer {
+public class SpringConfig implements WebMvcConfigurer { //Jakarta Persistence Architecture (JPA)
 
     private final ApplicationContext applicationContext;
     private final Environment environment;

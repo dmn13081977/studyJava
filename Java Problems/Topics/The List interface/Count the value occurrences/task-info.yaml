@@ -15,8 +15,7 @@ files:
 feedback_link: https://hyperskill.org/learn/step/2503#comment
 status: Solved
 feedback:
-  message: <html>You've solved 10 problems today. Great job! Tomorrow new problems
-    will be available to you.</html>
-  time: "Thu, 05 Oct 2023 06:38:30 UTC"
+  message: <html>Correct solution</html>
+  time: "Fri, 06 Oct 2023 06:30:06 UTC"
 record: -1
 submission_language: java17

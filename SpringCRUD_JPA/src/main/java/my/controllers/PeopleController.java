@@ -1,8 +1,10 @@
 package my.controllers;
 
 import jakarta.validation.Valid;
+import my.dao.PersonDao;
 import my.models.Person;
 import my.services.PeopleService;
+import my.services.PersonItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -14,15 +16,28 @@ import org.springframework.web.bind.annotation.*;
 public class PeopleController {
 
     private final PeopleService peopleService;
+    private final PersonItemService personItemService;
+
+    private final PersonDao personDao;
 
     @Autowired
-    public PeopleController(PeopleService peopleService) {
+    public PeopleController(PeopleService peopleService, PersonItemService personItemService, PersonDao personDao) {
         this.peopleService = peopleService;
+        this.personItemService = personItemService;
+        this.personDao = personDao;
     }
 
     @GetMapping()
     public String index(Model model) {
         model.addAttribute("people", peopleService.findAll());
+
+        personDao.testNPlus1();
+
+        //тестирование методов
+        personItemService.findByItemName("Iphone");
+        personItemService.findByOwner(peopleService.findAll().get(0));
+        peopleService.test();
+
         return "people/index";
     }
 

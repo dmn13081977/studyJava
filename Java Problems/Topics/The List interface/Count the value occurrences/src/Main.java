@@ -1,6 +1,4 @@
-import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
 
 class Counter {
 
@@ -12,11 +10,10 @@ class Counter {
             if (x == elem) count1++;
         }
 
-        for (Integer y : list1) {
+        for (Integer y : list2) {
             if (y == elem) count2++;
         }
 
         return count1 == count2;
     }
-
 }
