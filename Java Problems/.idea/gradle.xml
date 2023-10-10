@@ -7,7 +7,7 @@
         <option name="delegatedBuild" value="false" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="jbr-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -20,6 +20,11 @@
             <option value="$PROJECT_DIR$/Topics/Array/The last element of an array" />
             <option value="$PROJECT_DIR$/Topics/Array/Theory" />
             <option value="$PROJECT_DIR$/Topics/Array/Ways to create an array of ints" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/BigInteger facts" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Comparing numbers" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Multiplication" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger" />
             <option value="$PROJECT_DIR$/Topics/Command/Forex Broker" />
             <option value="$PROJECT_DIR$/Topics/Command/Participants" />
             <option value="$PROJECT_DIR$/Topics/Command/Real-world examples" />
@@ -29,12 +34,38 @@
             <option value="$PROJECT_DIR$/Topics/Command/Type of design pattern" />
             <option value="$PROJECT_DIR$/Topics/Command/Undo command" />
             <option value="$PROJECT_DIR$/Topics/Command/Use cases" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Addresses" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Comparing objects" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement Comparable" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Rules" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Correct fields" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Points" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Determine the result" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Difference between two doubles" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Find X" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/What is the value" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Disjunct all" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/How to compose predicates together" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/The chain of responsibility" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/What function is executed first" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expressions" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Higher-order functions" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Parts of code" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
@@ -46,6 +77,7 @@
             <option value="$PROJECT_DIR$/Topics/Optional/A suitable method" />
             <option value="$PROJECT_DIR$/Topics/Optional/Avoiding exceptions" />
             <option value="$PROJECT_DIR$/Topics/Optional/Check an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Create an Optional value" />
             <option value="$PROJECT_DIR$/Topics/Optional/Sum up optional values" />
             <option value="$PROJECT_DIR$/Topics/Optional/The address book" />
             <option value="$PROJECT_DIR$/Topics/Optional/Theory" />
@@ -107,6 +139,16 @@
             <option value="$PROJECT_DIR$/Topics/The List interface/Results of operations" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Comparing sets" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Essentials" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Match methods and their purposes" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/The most suitable set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/The set of programming languages" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/The size of a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/TreeSet storage order" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/How to throw an exception" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Possible declaration" />

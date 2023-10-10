@@ -1,0 +1,29 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: a ** b
+  - text: a.multiply(b)
+  - text: a * b
+  - text: "BigInteger.multiply(a, b)"
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3777#comment
+status: Solved
+feedback:
+  message: <html>You've solved 10 problems today. Great job! Tomorrow new problems
+    will be available to you.</html>
+  time: "Tue, 10 Oct 2023 08:27:48 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: false

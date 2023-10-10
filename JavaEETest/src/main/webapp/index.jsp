@@ -20,7 +20,7 @@
       out.println("<p>" + "N: " + i + "</p>");
     }
   %>
-  <%@ page import="java.util.Date, javaee.javaeetest.MyClass"%>
+  <%@ page import="java.util.Date, javaee.MyClass"%>
   <% MyClass mc = new MyClass(); %>
   <%= new Date() %>
   <%= mc.showInfo() %>

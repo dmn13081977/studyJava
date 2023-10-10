@@ -1,5 +1,6 @@
 import java.util.List;
 import java.util.Optional;
+import java.util.stream.Collectors;
 
 class Main {
     public static void main(String[] args) {
@@ -10,6 +11,7 @@ class Main {
           sum = x.isPresent() ? sum + x.get() : sum + 0;
         }
         System.out.println(sum);
+
     }
 }
 

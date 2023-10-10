@@ -11,3 +11,9 @@ content:
   - Standard functional interfaces
   - Floating-point types
   - Optional
+  - Comparable
+  - The Set interface
+  - Function composition
+  - Lambda expressions
+  - Defining classes
+  - BigInteger

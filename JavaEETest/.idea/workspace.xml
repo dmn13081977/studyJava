@@ -10,17 +10,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a546129-78d0-466f-a89d-a43bc7b7a82b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/src/main/java/my/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/src/main/java/my/entities/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/src/main/resources/hibernate.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HybernateApp/src/test/java/my/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaee/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaee/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaee/cookies/DeleteCookiesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaee/cookies/GetCookiesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaee/cookies/SetCookiesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/showCart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootApp/src/main/java/my/springbootapp/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootApp/src/main/resources/templates/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Optional/Sum up optional values/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Optional/Sum up optional values/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Optional/Sum up optional values/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Optional/Sum up optional values/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Optional/The address book/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Optional/The address book/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Optional/The address book/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Optional/The address book/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Optional/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Optional/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Standard functional interfaces/Find a functional interface/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Standard functional interfaces/Find a functional interface/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/30a64233-aa59-4434-bc70-19bfce296057.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/30a64233-aa59-4434-bc70-19bfce296057.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/30a64233-aa59-4434-bc70-19bfce296057/storage_v2/_src_/database/java_ee_db.IAw56Q/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/30a64233-aa59-4434-bc70-19bfce296057/storage_v2/_src_/database/java_ee_db.IAw56Q/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaee/javaeetest/BooksServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaee/BooksServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaee/javaeetest/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaee/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaee/javaeetest/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaee/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +54,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -182,6 +207,8 @@
       <workItem from="1695030121277" duration="12447000" />
       <workItem from="1695114803412" duration="6103000" />
       <workItem from="1695990256698" duration="53000" />
+      <workItem from="1696849352905" duration="10174000" />
+      <workItem from="1696934173483" duration="4645000" />
     </task>
     <servers />
   </component>

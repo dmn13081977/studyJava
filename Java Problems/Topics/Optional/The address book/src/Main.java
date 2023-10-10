@@ -10,8 +10,10 @@ public class Main {
 
         String name = scanner.nextLine();
         Optional<String> optAddress = AddressBook.getAddressByName(name);
-
-        // write your code here
+        optAddress.ifPresentOrElse(
+                (address) -> System.out.println(name + " lives at " + optAddress.get()),
+                () -> System.out.println("Unknown")
+        );
     }
 }
 

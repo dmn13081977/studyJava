@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: It belongs to the <b>java.math</b> package
+  - text: It is built-in integer type
+  - text: It belongs to the <b>java.big</b> package
+  - text: It belongs to the <b>java.util</b> package
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3468#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 10 Oct 2023 08:21:54 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false
