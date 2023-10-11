@@ -1,4 +1,4 @@
-type: string
+type: number
 files:
   - name: answer.txt
     visible: true
@@ -7,16 +7,16 @@ files:
         length: 2
         placeholder_text: type your solution here
         initial_state:
-          length: 2
+          length: 23
           offset: 0
         initialized_from_dependency: false
         selected: false
         status: Solved
     text: type your solution here
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/3350#comment
+feedback_link: https://hyperskill.org/learn/step/3471#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: "Tue, 10 Oct 2023 07:53:15 UTC"
+  time: "Wed, 11 Oct 2023 05:01:31 UTC"
 record: -1
