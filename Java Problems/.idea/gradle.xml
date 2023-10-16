@@ -20,6 +20,13 @@
             <option value="$PROJECT_DIR$/Topics/Array/The last element of an array" />
             <option value="$PROJECT_DIR$/Topics/Array/Theory" />
             <option value="$PROJECT_DIR$/Topics/Array/Ways to create an array of ints" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Ability to change" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Gold mining" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Initialization" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Multiplication" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Round and power" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Rounding with a given precision" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Theory" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/An expression with large numbers" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/BigInteger facts" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Comparing numbers" />
@@ -39,10 +46,19 @@
             <option value="$PROJECT_DIR$/Topics/Comparable/Addresses" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Comparing objects" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Implement Comparable" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Rules" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Currying/A correct lambda expression" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Applying a number" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Curried function" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Multifunctional mapper" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Reducer operator" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Currying/String concatenation" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Theory" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Complex numbers" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Correct fields" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Points" />
@@ -61,6 +77,10 @@
             <option value="$PROJECT_DIR$/Topics/Function composition/The chain of responsibility" />
             <option value="$PROJECT_DIR$/Topics/Function composition/Theory" />
             <option value="$PROJECT_DIR$/Topics/Function composition/What function is executed first" />
+            <option value="$PROJECT_DIR$/Topics/Instant/Java epoch" />
+            <option value="$PROJECT_DIR$/Topics/Instant/The Instant to a long" />
+            <option value="$PROJECT_DIR$/Topics/Instant/The get() method" />
+            <option value="$PROJECT_DIR$/Topics/Instant/Theory" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expressions" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Higher-order functions" />
@@ -91,6 +111,11 @@
             <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reification/Photocopiers" />
+            <option value="$PROJECT_DIR$/Topics/Reification/The difference between two classes" />
+            <option value="$PROJECT_DIR$/Topics/Reification/The result of the code" />
+            <option value="$PROJECT_DIR$/Topics/Reification/The result of the code (1)" />
+            <option value="$PROJECT_DIR$/Topics/Reification/Theory" />
             <option value="$PROJECT_DIR$/Topics/Singleton/A singleton has" />
             <option value="$PROJECT_DIR$/Topics/Singleton/Application controller" />
             <option value="$PROJECT_DIR$/Topics/Singleton/Bad singleton" />
@@ -161,6 +186,10 @@
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an IOException" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an unchecked exception" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throwing an exception" />
+            <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Comparing instant values" />
+            <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Find the required offset" />
+            <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/The until() method" />
+            <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

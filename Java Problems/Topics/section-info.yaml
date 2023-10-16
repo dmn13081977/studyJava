@@ -17,3 +17,8 @@ content:
   - Lambda expressions
   - Defining classes
   - BigInteger
+  - Instant
+  - BigDecimal
+  - ZonedDateTime and OffsetDateTime
+  - Reification
+  - Currying
