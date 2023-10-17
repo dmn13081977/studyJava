@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-  - text: Function&lt;Long&gt;
-  - text: LongFunction&lt;LongFunction&lt;Long&gt;&gt;
   - text: LongFunction&lt;Long&gt;
   - text: CurriedLongFunction
+  - text: Function&lt;Long&gt;
+  - text: LongFunction&lt;LongFunction&lt;Long&gt;&gt;
   - text: Long
 files:
   - name: src/Task.java

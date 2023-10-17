@@ -32,8 +32,14 @@
             <option value="$PROJECT_DIR$/Topics/BigInteger/Comparing numbers" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Double factorial" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Multiplication" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/The smallest value" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command line arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to pass ints" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Passing three arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Theory" />
             <option value="$PROJECT_DIR$/Topics/Command/Forex Broker" />
             <option value="$PROJECT_DIR$/Topics/Command/Participants" />
             <option value="$PROJECT_DIR$/Topics/Command/Real-world examples" />
@@ -109,6 +115,7 @@
             <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
             <option value="$PROJECT_DIR$/Topics/Reification/Photocopiers" />
@@ -176,6 +183,14 @@
             <option value="$PROJECT_DIR$/Topics/The Set interface/The size of a set" />
             <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
             <option value="$PROJECT_DIR$/Topics/The Set interface/TreeSet storage order" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/An uncompiled statement" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Collection class basics" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Match methods with their purposes" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Multiple swaps" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Rotating table" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Sorting sequences" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/The first index of a sublist" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Theory" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/How to throw an exception" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Possible declaration" />

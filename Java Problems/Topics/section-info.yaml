@@ -22,3 +22,5 @@ content:
   - ZonedDateTime and OffsetDateTime
   - Reification
   - Currying
+  - The utility class Collections
+  - Command-line arguments

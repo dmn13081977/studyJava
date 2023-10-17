@@ -2,11 +2,12 @@ package my.springrest.controllers;
 
 import my.springrest.models.Person;
 import my.springrest.services.PeopleService;
+import my.springrest.util.PersonErrorResponse;
+import my.springrest.util.PersonNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -30,6 +31,13 @@ public class PeopleController {
 
     @GetMapping("/{id}")
     public Person getPerson(@PathVariable("id") int id) {
-        return peopleService.findOne(id); // Jackson конвертирует в JSON
+        return peopleService.findOne(id); // Jackson конвертирует в JSON статус ответа 200
+    }
+
+    @ExceptionHandler
+    private ResponseEntity<PersonErrorResponse> handleException(PersonNotFoundException e) {
+        PersonErrorResponse response = new PersonErrorResponse("Person not found",
+                System.currentTimeMillis());
+        return new ResponseEntity<>(response, HttpStatus.NOT_FOUND);//NOT_FOUND - статус ответа 404
     }
 }
