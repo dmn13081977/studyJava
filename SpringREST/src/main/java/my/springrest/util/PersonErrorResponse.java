@@ -25,5 +25,4 @@ public class PersonErrorResponse {
         this.timeStamp = timeStamp;
     }
 
-
 }
