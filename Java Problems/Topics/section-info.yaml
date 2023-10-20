@@ -24,3 +24,4 @@ content:
   - Currying
   - The utility class Collections
   - Command-line arguments
+  - Threads as objects

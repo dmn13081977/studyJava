@@ -7,7 +7,7 @@ import org.apache.catalina.User;
 @Entity
 @Data
 @ToString
-@Table(name = "userEntity")
+@Table(name = "user_entity")
 public class UserEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

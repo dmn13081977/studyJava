@@ -37,8 +37,10 @@
             <option value="$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command line arguments" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to pass ints" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to start a program" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Parameters and their values" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Passing three arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/The index of an argument" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Theory" />
             <option value="$PROJECT_DIR$/Topics/Command/Forex Broker" />
             <option value="$PROJECT_DIR$/Topics/Command/Participants" />
@@ -191,6 +193,9 @@
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Sorting sequences" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/The first index of a sublist" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting a current thread" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting current thread info" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Theory" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/How to throw an exception" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Possible declaration" />
