@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: To make a variable accessible only by a specific thread
+  - text: To share data between threads
+  - text: To use threads together with functional programming
+  - text: To set "local" visibility of a thread
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23994#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 27 Oct 2023 08:31:25 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false

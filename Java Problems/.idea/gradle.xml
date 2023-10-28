@@ -7,7 +7,7 @@
         <option name="delegatedBuild" value="false" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="jbr-17" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/Topics/Array/Theory" />
             <option value="$PROJECT_DIR$/Topics/Array/Ways to create an array of ints" />
             <option value="$PROJECT_DIR$/Topics/BigDecimal/Ability to change" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Average" />
             <option value="$PROJECT_DIR$/Topics/BigDecimal/Gold mining" />
             <option value="$PROJECT_DIR$/Topics/BigDecimal/Initialization" />
             <option value="$PROJECT_DIR$/Topics/BigDecimal/Multiplication" />
@@ -35,6 +36,16 @@
             <option value="$PROJECT_DIR$/Topics/BigInteger/The smallest value" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Where you can get BigInteger" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Create a callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Execute Callable objects" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Get the result" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/How many Callable objects are there" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/How many tasks are finished" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Submitting Callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/What is Callable" />
+            <option value="$PROJECT_DIR$/Topics/Callable and Future/What is Future" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Basic calculator" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command line arguments" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to pass ints" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to start a program" />
@@ -67,12 +78,27 @@
             <option value="$PROJECT_DIR$/Topics/Currying/Statements" />
             <option value="$PROJECT_DIR$/Topics/Currying/String concatenation" />
             <option value="$PROJECT_DIR$/Topics/Currying/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Message notifier as a thread" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Multiple threads" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Starting runnables" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Statements about starting threads" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/The difference between start and run" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Writing a thread for printing numbers" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Complex numbers" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Correct fields" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Points" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Executors/Asynchronous email sending" />
+            <option value="$PROJECT_DIR$/Topics/Executors/Check whether a number is prime" />
+            <option value="$PROJECT_DIR$/Topics/Executors/Executor types" />
+            <option value="$PROJECT_DIR$/Topics/Executors/Messaging" />
+            <option value="$PROJECT_DIR$/Topics/Executors/Supplying a task" />
+            <option value="$PROJECT_DIR$/Topics/Executors/The order of lines in output" />
+            <option value="$PROJECT_DIR$/Topics/Executors/Theory" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Determine the result" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Difference between two doubles" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
@@ -89,6 +115,22 @@
             <option value="$PROJECT_DIR$/Topics/Instant/The Instant to a long" />
             <option value="$PROJECT_DIR$/Topics/Instant/The get() method" />
             <option value="$PROJECT_DIR$/Topics/Instant/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Handling interruptions" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Interrupt method" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Interrupting a thread" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/It was interrupted" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interruptions/What does the invocation cause" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Check if an array contains two numbers" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The index of the first max in an array" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The minimum value of an array" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Triples" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Two numbers never occur next to each other" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expressions" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Higher-order functions" />
@@ -187,15 +229,35 @@
             <option value="$PROJECT_DIR$/Topics/The Set interface/TreeSet storage order" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/An uncompiled statement" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Collection class basics" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Frequency of characters" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Match methods with their purposes" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Multiple swaps" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Rotating table" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Sorting sequences" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/The first index of a sublist" />
             <option value="$PROJECT_DIR$/Topics/The utility class Collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Calculate the number of distinct characters" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Join" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Ordering the execution of threads" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Sleep" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/VeganPizza" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Correct keyword" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Statements about monitor" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Thread safe counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Thread safe down counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/What is a monitor" />
+            <option value="$PROJECT_DIR$/Topics/ThreadLocal/Feature of ThreadLocal" />
+            <option value="$PROJECT_DIR$/Topics/ThreadLocal/Finish a method" />
+            <option value="$PROJECT_DIR$/Topics/ThreadLocal/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Counting threads" />
             <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting a current thread" />
             <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting current thread info" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Is thread daemon" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/The implementation of threads" />
             <option value="$PROJECT_DIR$/Topics/Threads as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Thread name" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/How to throw an exception" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Possible declaration" />
@@ -208,6 +270,7 @@
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throwing an exception" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Comparing instant values" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Find the required offset" />
+            <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Get the OffsetDateTime unit" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/The until() method" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Theory" />
             <option value="$PROJECT_DIR$/util" />

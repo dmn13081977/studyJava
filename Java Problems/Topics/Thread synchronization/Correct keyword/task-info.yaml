@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: mutex
+  - text: synchronized
+  - text: volatile
+  - text: protected
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/36491#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 25 Oct 2023 09:11:04 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false

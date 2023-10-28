@@ -25,3 +25,11 @@ content:
   - The utility class Collections
   - Command-line arguments
   - Threads as objects
+  - Custom threads
+  - Thread management
+  - Thread synchronization
+  - Executors
+  - Iterating over arrays
+  - Interruptions
+  - Callable and Future
+  - ThreadLocal

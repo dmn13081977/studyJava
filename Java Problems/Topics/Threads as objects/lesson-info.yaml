@@ -3,3 +3,7 @@ content:
   - Getting a current thread
   - Getting current thread info
   - Find min and max priorities
+  - The implementation of threads
+  - Thread name
+  - Counting threads
+  - Is thread daemon
