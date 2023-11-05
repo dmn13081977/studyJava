@@ -1,0 +1,28 @@
+type: matching
+captions:
+  - get values out of a structure
+  - put values into a structure
+  - both get and put to/from a structure
+options:
+  - extends
+  - super
+  - don’t use a wildcard
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2644#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

@@ -33,7 +33,7 @@ System.out.println("Do something else");</code></pre><p>The overloaded version o
         worker.join(3000L);  // waiting for the worker
         System.out.println("The program stopped");
     }
-}</code></pre><p>The main thread waits for <code class="language-java">worker</code> and cannot print the message  <code class="language-java">The program stopped</code> until the worker terminates or the timeout is exceeded. We know exactly only that <code class="language-java">Starting a task</code> precedes <code class="language-java">The task is finished</code> and <code class="language-java">Do something useful</code> precedes <code class="language-java">The program stopped</code><strong>. </strong>There are several possible outputs</p><p>First possible output (the task is completed before the timeout is exceeded):</p><pre><code class="language-java">Starting a task
+}</code></pre><p>The main thread waits for <code class="language-java">worker</code> and cannot print the message  <code class="language-java">The program stopped</code> until the worker terminates or the timeout is exceeded. We know exactly only that <code class="language-java">Starting a task</code> precedes <code class="language-java">The task is finished</code> and <code class="language-java">Do something useful</code> precedes <code class="language-java">The program stopped</code><strong>. </strong>There are several possible outputs.</p><p>First possible output (the task is completed before the timeout is exceeded):</p><pre><code class="language-java">Starting a task
 Do something useful
 The task is finished
 The program stopped</code></pre><p>Second possible output (the task is completed before the timeout is exceeded):</p><pre><code class="language-java">Do something useful

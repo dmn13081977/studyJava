@@ -33,11 +33,4 @@ class Person implements Comparable<Person> {
         if (res == 0) res = getAge() - otherPerson.getAge();
         return res;
     }
-
-//    @Override
-//    public int compareTo(Person otherPerson) {
-//        return this.getName().compareTo(otherPerson.getName()) == 0 ?
-//                Integer.valueOf(this.getAge()).compareTo(Integer.valueOf(otherPerson.getAge())) :
-//                this.getName().compareTo(otherPerson.getName());
-//    }
 }

@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Runtime error on "numbers.add(10);"
+  - text: Runtime error on "return numbers.get(0);"
+  - text: Compile-time error on "numbers.add(10);"
+  - text: Compile-time error on "return numbers.get(0);"
+  - text: 10 printed to standard output
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2636#comment
+status: Solved
+record: -1
+custom_name: The result of the code
+local_check: false

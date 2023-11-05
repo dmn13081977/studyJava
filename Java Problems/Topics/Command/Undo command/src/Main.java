@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 interface Movable {
     int getX();
     int getY();
@@ -16,13 +18,48 @@ interface Command {
     void undo();
 }
 
-class CommandMove {
+class CommandMove implements Command {
     Movable entity;
     int xMovement;
     int yMovement;
+
+    @Override
+    public void execute() {
+        entity.setX(entity.getX() + xMovement);
+        entity.setY(entity.getY() + yMovement);
+
+    }
+
+    @Override
+    public void undo() {
+        entity.setX(entity.getX() - xMovement);
+        entity.setY(entity.getY() - yMovement);
+    }
 }
 
-class CommandPutItem {
+
+class CommandPutItem implements Command {
     Storable entity;
     String item;
+
+
+    @Override
+    public void execute() {
+        for (int i = 0; i <= entity.getInventoryLength() - 1; i++) {
+            if (entity.getInventoryItem(i) == null) {
+                entity.setInventoryItem(i, item);
+                break;
+            }
+        }
+    }
+
+    @Override
+    public void undo() {
+        for (int i = entity.getInventoryLength() - 1; i >= 0;  i--) {
+            if (!Objects.isNull(entity.getInventoryItem(i)) && entity.getInventoryItem(i).equals(item)) {
+                entity.setInventoryItem(i, null);
+                break;
+            }
+        }
+    }
 }

@@ -7,7 +7,7 @@
         <option name="delegatedBuild" value="false" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="jbr-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -67,6 +67,7 @@
             <option value="$PROJECT_DIR$/Topics/Comparable/Implement Comparable" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Implement compareTo method" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Ratings" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Rules" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
@@ -138,6 +139,15 @@
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Parts of code" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Statements" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Check the essay" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Extracting big numbers from a text" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Extracting words from a text" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Find all passwords" />
+            <option value="$PROJECT_DIR$/Topics/Match results/How many times it returns true" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Match results/What do we get" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Wrong move" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Cinema" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
@@ -154,6 +164,16 @@
             <option value="$PROJECT_DIR$/Topics/Optional/The address book" />
             <option value="$PROJECT_DIR$/Topics/Optional/Theory" />
             <option value="$PROJECT_DIR$/Topics/Optional/What is Optional" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/E-mail address" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Invoking matches and find" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/The order of using classes" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Why use Pattern and Matcher" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Complete the code to reverse a string" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Cutting out the middle of a string" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
@@ -162,11 +182,24 @@
             <option value="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Card name validation and identification" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check IP address" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the date" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Ignoring spaces" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Safe password" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number" />
             <option value="$PROJECT_DIR$/Topics/Reification/Photocopiers" />
             <option value="$PROJECT_DIR$/Topics/Reification/The difference between two classes" />
             <option value="$PROJECT_DIR$/Topics/Reification/The result of the code" />
             <option value="$PROJECT_DIR$/Topics/Reification/The result of the code (1)" />
             <option value="$PROJECT_DIR$/Topics/Reification/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Check the essay" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Methods of a string" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Remove HTML tags" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Remove extra spaces" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Theory" />
             <option value="$PROJECT_DIR$/Topics/Singleton/A singleton has" />
             <option value="$PROJECT_DIR$/Topics/Singleton/Application controller" />
             <option value="$PROJECT_DIR$/Topics/Singleton/Bad singleton" />
@@ -221,6 +254,7 @@
             <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
             <option value="$PROJECT_DIR$/Topics/The Set interface/Essentials" />
             <option value="$PROJECT_DIR$/Topics/The Set interface/Match methods and their purposes" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Output elements" />
             <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
             <option value="$PROJECT_DIR$/Topics/The Set interface/The most suitable set" />
             <option value="$PROJECT_DIR$/Topics/The Set interface/The set of programming languages" />
@@ -242,6 +276,7 @@
             <option value="$PROJECT_DIR$/Topics/Thread management/Sleep" />
             <option value="$PROJECT_DIR$/Topics/Thread management/Theory" />
             <option value="$PROJECT_DIR$/Topics/Thread management/VeganPizza" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Account implementation" />
             <option value="$PROJECT_DIR$/Topics/Thread synchronization/Correct keyword" />
             <option value="$PROJECT_DIR$/Topics/Thread synchronization/Statements about monitor" />
             <option value="$PROJECT_DIR$/Topics/Thread synchronization/Theory" />
@@ -268,6 +303,16 @@
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an IOException" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an unchecked exception" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throwing an exception" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Find an equivalent" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Get and Put pinciple in practice" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Keywords" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Keywords (1)" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Pets in boxes" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Subtype relation" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/The result of the code" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/The result of the code (1)" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/The result of the code (2)" />
+            <option value="$PROJECT_DIR$/Topics/Wildcards/Theory" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Comparing instant values" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Find the required offset" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Get the OffsetDateTime unit" />

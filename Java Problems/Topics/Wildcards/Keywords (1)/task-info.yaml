@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: lower
+  - text: super
+  - text: extends
+  - text: implements
+  - text: upper
+  - text: restricts
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3421#comment
+status: Solved
+record: -1
+custom_name: Keywords
+local_check: false

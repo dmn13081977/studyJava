@@ -2,7 +2,7 @@
 <div class="step-text">
 <p></p><p>Suppose that you want to count the number of occurrences of a word in a large file. Since the operation can take a very long time, you decide to do it asynchronously in order to prevent blocking the <code class="language-java">main</code> thread of the application.</p><p>You have the following code:</p><pre><code class="language-java">ExecutorService executor = Executors.newSingleThreadExecutor();
 Callable&lt;Integer&gt; countWordsInFile = () -&gt; {
-    wordCount = 0;
+    int wordCount = 0;
     // accessing a file and calculating wordCount
     return wordCount;
 };

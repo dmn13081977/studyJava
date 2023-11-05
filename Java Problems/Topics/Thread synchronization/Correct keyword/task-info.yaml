@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-  - text: mutex
   - text: synchronized
   - text: volatile
   - text: protected
+  - text: mutex
 files:
   - name: src/Task.java
     visible: true
