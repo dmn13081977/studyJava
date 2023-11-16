@@ -10,41 +10,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a546129-78d0-466f-a89d-a43bc7b7a82b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaee/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaee/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaee/cookies/DeleteCookiesServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaee/cookies/GetCookiesServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaee/cookies/SetCookiesServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/showCart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootApp/src/main/java/my/springbootapp/controllers/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBootApp/src/main/resources/templates/hello.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java Problems/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Optional/Sum up optional values/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Optional/Sum up optional values/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Optional/Sum up optional values/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Optional/Sum up optional values/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Optional/The address book/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Optional/The address book/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Optional/The address book/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Optional/The address book/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Optional/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Optional/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Standard functional interfaces/Find a functional interface/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Standard functional interfaces/Find a functional interface/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/BigDecimal/Average/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/BigDecimal/Average/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/BigDecimal/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/BigDecimal/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/BigInteger/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/BigInteger/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Command-line arguments/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Command-line arguments/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Lambda expressions/Higher-order functions/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Lambda expressions/Higher-order functions/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Regexes in programs/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Regexes in programs/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/Throwing exceptions/Throw a checked exception/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/Throwing exceptions/Throw a checked exception/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/ZonedDateTime and OffsetDateTime/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/ZonedDateTime and OffsetDateTime/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java Problems/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Problems/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/30a64233-aa59-4434-bc70-19bfce296057.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/30a64233-aa59-4434-bc70-19bfce296057.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/30a64233-aa59-4434-bc70-19bfce296057/storage_v2/_src_/database/java_ee_db.IAw56Q/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/30a64233-aa59-4434-bc70-19bfce296057/storage_v2/_src_/database/java_ee_db.IAw56Q/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaee/javaeetest/BooksServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaee/BooksServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaee/javaeetest/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaee/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaee/javaeetest/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaee/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,29 +71,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Tomcat 10.1.11" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.11" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
@@ -209,6 +200,7 @@
       <workItem from="1695990256698" duration="53000" />
       <workItem from="1696849352905" duration="10174000" />
       <workItem from="1696934173483" duration="4645000" />
+      <workItem from="1699957497487" duration="890000" />
     </task>
     <servers />
   </component>

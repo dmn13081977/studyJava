@@ -1,0 +1,9 @@
+content:
+  - Theory
+  - OutputStream class
+  - FileOutputStream class
+  - Types of output streams
+  - Byte output streams
+  - Choose correct writer
+  - Convert to char array
+  - What is a buffering

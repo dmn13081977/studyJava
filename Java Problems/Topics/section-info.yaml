@@ -38,3 +38,11 @@ content:
   - Patterns and Matcher
   - Match results
   - Replacing characters
+  - Declaring a method
+  - Type Erasure
+  - Stack
+  - Iterator and Iterable
+  - Memento
+  - Output streams
+  - Serialization basics
+  - Custom serialization

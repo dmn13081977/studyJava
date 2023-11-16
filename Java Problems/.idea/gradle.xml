@@ -7,7 +7,7 @@
         <option name="delegatedBuild" value="false" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="jbr-17" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/Topics/Array/Ways to create an array of ints" />
             <option value="$PROJECT_DIR$/Topics/BigDecimal/Ability to change" />
             <option value="$PROJECT_DIR$/Topics/BigDecimal/Average" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Deposit" />
             <option value="$PROJECT_DIR$/Topics/BigDecimal/Gold mining" />
             <option value="$PROJECT_DIR$/Topics/BigDecimal/Initialization" />
             <option value="$PROJECT_DIR$/Topics/BigDecimal/Multiplication" />
@@ -47,6 +48,7 @@
             <option value="$PROJECT_DIR$/Topics/Callable and Future/What is Future" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Basic calculator" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command line arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Get the game mode" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to pass ints" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to start a program" />
             <option value="$PROJECT_DIR$/Topics/Command-line arguments/Parameters and their values" />
@@ -79,6 +81,15 @@
             <option value="$PROJECT_DIR$/Topics/Currying/Statements" />
             <option value="$PROJECT_DIR$/Topics/Currying/String concatenation" />
             <option value="$PROJECT_DIR$/Topics/Currying/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Custom serialization behavior" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Fix the bank account" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Included fields" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Initialize transient fields" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Password processing" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Serialization mystery" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Serializing integers" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/The Range class" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Theory" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Message notifier as a thread" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Multiple threads" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Starting runnables" />
@@ -87,6 +98,12 @@
             <option value="$PROJECT_DIR$/Topics/Custom threads/The difference between start and run" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
             <option value="$PROJECT_DIR$/Topics/Custom threads/Writing a thread for printing numbers" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Division" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Greatest common divisor" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Method signature" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/The sign of a number" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Theory" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Complex numbers" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Correct fields" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Points" />
@@ -132,6 +149,14 @@
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Triples" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Two numbers never occur next to each other" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Determine the order" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Existing iterators" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Hip-Hop" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Interfaces with iterator" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Match methods and definitions" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Remove elements of a collection" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/What is an Iterator" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expressions" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Higher-order functions" />
@@ -147,6 +172,12 @@
             <option value="$PROJECT_DIR$/Topics/Match results/Theory" />
             <option value="$PROJECT_DIR$/Topics/Match results/What do we get" />
             <option value="$PROJECT_DIR$/Topics/Match results/Wrong move" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Classification" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Downsides" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Reference type" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Roll back" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Undo and redo" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Cinema" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners" />
@@ -164,6 +195,13 @@
             <option value="$PROJECT_DIR$/Topics/Optional/The address book" />
             <option value="$PROJECT_DIR$/Topics/Optional/Theory" />
             <option value="$PROJECT_DIR$/Topics/Optional/What is Optional" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/Byte output streams" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/Convert to char array" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/FileOutputStream class" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/OutputStream class" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/Types of output streams" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/What is a buffering" />
             <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/E-mail address" />
             <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length" />
             <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word" />
@@ -187,6 +225,7 @@
             <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time" />
             <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the date" />
             <option value="$PROJECT_DIR$/Topics/Regexes in programs/Ignoring spaces" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers" />
             <option value="$PROJECT_DIR$/Topics/Regexes in programs/Safe password" />
             <option value="$PROJECT_DIR$/Topics/Regexes in programs/Theory" />
             <option value="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number" />
@@ -200,6 +239,18 @@
             <option value="$PROJECT_DIR$/Topics/Replacing characters/Remove HTML tags" />
             <option value="$PROJECT_DIR$/Topics/Replacing characters/Remove extra spaces" />
             <option value="$PROJECT_DIR$/Topics/Replacing characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Container with transient fields" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Default serialization" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Exclude modifier" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Making a class serializable" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Methods of Serializable" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Modifiers for the version field" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Play with streams" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Prevent Serialization of a field" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Preventing a field from serialization" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Serializable user" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/The missed field" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Theory" />
             <option value="$PROJECT_DIR$/Topics/Singleton/A singleton has" />
             <option value="$PROJECT_DIR$/Topics/Singleton/Application controller" />
             <option value="$PROJECT_DIR$/Topics/Singleton/Bad singleton" />
@@ -210,6 +261,14 @@
             <option value="$PROJECT_DIR$/Topics/Singleton/Printing data of a singleton" />
             <option value="$PROJECT_DIR$/Topics/Singleton/Select statements" />
             <option value="$PROJECT_DIR$/Topics/Singleton/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Getting the max element of a stack" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Match methods" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Methods" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Stack implementation" />
+            <option value="$PROJECT_DIR$/Topics/Stack/The LIFO principle in action" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Using deque" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Which brackets are balanced" />
             <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts" />
             <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/An infinite numbers supplier" />
             <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Describe the function" />
@@ -303,6 +362,10 @@
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an IOException" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an unchecked exception" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throwing an exception" />
+            <option value="$PROJECT_DIR$/Topics/Type Erasure/The result of the code" />
+            <option value="$PROJECT_DIR$/Topics/Type Erasure/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type Erasure/Violator" />
+            <option value="$PROJECT_DIR$/Topics/Type Erasure/What does it mean" />
             <option value="$PROJECT_DIR$/Topics/Wildcards/Find an equivalent" />
             <option value="$PROJECT_DIR$/Topics/Wildcards/Get and Put pinciple in practice" />
             <option value="$PROJECT_DIR$/Topics/Wildcards/Keywords" />
@@ -315,6 +378,7 @@
             <option value="$PROJECT_DIR$/Topics/Wildcards/Theory" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Comparing instant values" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Find the required offset" />
+            <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Get the Instant of the ZonedDateTime" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Get the OffsetDateTime unit" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/The until() method" />
             <option value="$PROJECT_DIR$/Topics/ZonedDateTime and OffsetDateTime/Theory" />

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Memento-Classification:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Memento/Classification" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java Problems" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Memento/Classification/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Memento/Classification/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Memento/Classification/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Java_Problems.Topics-Memento-Classification.main" />
+    <orderEntry type="module" module-name="Java_Problems.util.main" />
+    <orderEntry type="module" module-name="Java_Problems.util.test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Java_Problems.Topics-Memento-Classification.main" />
+</module>

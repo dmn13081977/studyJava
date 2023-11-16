@@ -6,3 +6,4 @@ content:
   - The until() method
   - Find the required offset
   - Get the OffsetDateTime unit
+  - Get the Instant of the ZonedDateTime

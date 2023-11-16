@@ -1,0 +1,10 @@
+content:
+  - Theory
+  - Included fields
+  - Custom serialization behavior
+  - Serialization mystery
+  - Serializing integers
+  - The Range class
+  - Initialize transient fields
+  - Fix the bank account
+  - Password processing
